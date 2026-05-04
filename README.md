@@ -4,10 +4,11 @@ I built this landing page for a client who helps people grow on LinkedIn. The go
 It includes sections like hero, achievements, audit offer, testimonials, and FAQ to improve conversions.
 
 🛠️ Tech Stack
-. HTML
-. CSS
-. JavaScript
-. Google Sheets (for storing data)
-. Google Apps Script (for handling form submissions)
-. Claude AI (for code assistance)
-. Stitch AI (for UI design inspiration)
+
+- HTML
+- CSS
+- JavaScript
+- Google Sheets (for storing data)
+- Google Apps Script (for handling form submissions)
+- Claude AI (for code assistance)
+- Stitch AI (for UI design inspiration)
