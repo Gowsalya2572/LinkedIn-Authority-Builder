@@ -12,3 +12,5 @@ It includes sections like hero, achievements, audit offer, testimonials, and FAQ
 - Google Apps Script (for handling form submissions)
 - Claude AI (for code assistance)
 - Stitch AI (for UI design inspiration)
+
+Deploy Link - https://linked-in-authority-builder.vercel.app/
